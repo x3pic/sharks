@@ -35,8 +35,8 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Application, f
 
 import solana
 #mimic
-key = "6739060490:AAHxintguEjcJpwpj28b9DWIGZhJrrNtF2g"  # Replace with your token
-username = "@SharkshooterDemo_Bot"  # Replace with your bot's username
+key = "xxxxx"  # Replace with your token
+username = "xxxxx"  # Replace with your bot's username
 
 
 
